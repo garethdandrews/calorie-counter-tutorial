@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "c4wYFwxekmphogLWZ5MpxC4duZIE4ATxBvLU2m3sXGC9T09imPUjANPJ/2ckiNzW/3PHH8IW+aVKTr9ILZanTA==",
+  "dgSpecHash": "0nGcJtztkHIRqcmJbHDmeJTvBkkohod8jlySKP4R7wMxTiIuTXqNeGIA9mtM9ZVPbvEk2czYcmRramDfmK9AMg==",
   "success": true,
   "projectFilePath": "/Users/garethandrews/projects/calorie-counter-tutorial/calorie-counter-tutorial.csproj",
   "expectedPackageFiles": [
+    "/Users/garethandrews/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/garethandrews/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/garethandrews/.nuget/packages/microsoft.entityframeworkcore/5.0.8/microsoft.entityframeworkcore.5.0.8.nupkg.sha512",
     "/Users/garethandrews/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.8/microsoft.entityframeworkcore.abstractions.5.0.8.nupkg.sha512",
     "/Users/garethandrews/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.8/microsoft.entityframeworkcore.analyzers.5.0.8.nupkg.sha512",
-    "/Users/garethandrews/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.7/microsoft.entityframeworkcore.relational.5.0.7.nupkg.sha512",
+    "/Users/garethandrews/.nuget/packages/microsoft.entityframeworkcore.design/5.0.8/microsoft.entityframeworkcore.design.5.0.8.nupkg.sha512",
+    "/Users/garethandrews/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.8/microsoft.entityframeworkcore.relational.5.0.8.nupkg.sha512",
     "/Users/garethandrews/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "/Users/garethandrews/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "/Users/garethandrews/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
